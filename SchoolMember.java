@@ -1,4 +1,4 @@
-public class JobRoster {
+public class SchoolMember {
     public static void main(String[] args) {
         {
 
